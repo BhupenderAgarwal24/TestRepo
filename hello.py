@@ -1,1 +1,2 @@
-print("Hello Bhupender Agarwal")
+# Greet the user
+print("Hello World")
